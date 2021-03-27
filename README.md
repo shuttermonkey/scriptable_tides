@@ -1,6 +1,8 @@
 # scriptable_tides
 
-![widget](https://user-images.githubusercontent.com/7694486/112722178-49626080-8ede-11eb-8bef-c55b892b2c85.jpg)
+![widget]https://github.com/shuttermonkey/scriptable_tides/blob/main/screenshots/widget.jpg)
+
+
 
 iOS scriptable widget to show local tide status with python scripts to generate the relevant data
 
