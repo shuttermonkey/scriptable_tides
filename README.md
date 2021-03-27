@@ -1,6 +1,6 @@
 # scriptable_tides
 
-![widget]https://github.com/shuttermonkey/scriptable_tides/blob/main/screenshots/widget.jpg)
+![widget](https://github.com/shuttermonkey/scriptable_tides/blob/main/screenshots/widget.jpg)
 
 
 
